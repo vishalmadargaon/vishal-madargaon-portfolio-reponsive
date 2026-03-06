@@ -1,0 +1,9 @@
+
+{
+  "name": "Vishal Madargaon Portfolio",
+  "description": "A high-tech, 3D-inspired portfolio for a GenAI-focused Android and Web Developer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
